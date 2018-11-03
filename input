@@ -1,0 +1,23 @@
+/*
+	Instruction:
+	Line 16 contains comma separated list of names of people
+	The lines following that contain the comma separated list of friends in respective order
+	Eg:
+	a,b,c,d,e,f,g - List of people
+    c,d,e,b,g - friends of a
+    a,g - friends of b
+    a - friends of c
+    a,f - friends of d
+    a,f - friends of e
+    d,e - friends of f
+    a,b - friends of g
+*/
+
+a,b,c,d,e,f,g
+c,d,e,b,g
+a,g
+a
+a,f
+a,f
+d,e
+a,b
